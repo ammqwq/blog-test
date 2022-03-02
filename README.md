@@ -18,12 +18,12 @@
 * 东方
 * 鼠鼠我啊，最喜欢二次元了。
 
-![这是我的鼠鼠](img\2.jpg)
+![这是我的鼠鼠](./img/2.jpg)
 开心的鼠鼠^.^
 
 有一首很好听的音乐分享 [传世乐章](https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.788.recommend_more_video.0)
 
-![一张图片](img\1.jpg)
+![一张图片](./img/1.jpg)
 
 下面是代码
 
